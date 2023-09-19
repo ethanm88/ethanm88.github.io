@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-Hello! I am a MSCS student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/).
+Hello! I am a MSCS student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). I previously graduated from Georgia Tech with a BS in Computer Science.
 
 I am applying to ML/NLP Ph.D. programs in Fall 2023.
+
+Feel free to reach me to emendes3[at]gatech.edu.
 
 Publications
 ======
