@@ -13,7 +13,7 @@ Hello! I am a MSCS student at Georgia Tech where I work on Natural Language Proc
 
 I am applying to ML/NLP Ph.D. programs in Fall 2023.
 
-Feel free to reach me to emendes3[at]gatech.edu.
+Feel free to reach out at emendes3[at]gatech[dot]edu.
 
 Publications
 ======
