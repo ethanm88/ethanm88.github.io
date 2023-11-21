@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 
-Hello! I am a MSCS student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). I previously graduated from Georgia Tech with a BS in Computer Science.
+Hello! I am a BSMS student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). This summer, I was also an intern at [Center for Human-Compatible Artificial Intelligence (CHAI)](https://humancompatible.ai/) at UC Berkeley working in [Prof. Stuart Russell's](https://people.eecs.berkeley.edu/~russell/) group.
 
-I am applying to ML/NLP Ph.D. programs in Fall 2023.
+**I am applying to ML/NLP Ph.D. programs in Fall 2023.**
 
 Feel free to reach out at emendes3[at]gatech[dot]edu.
+
+**Current Research Interests:** I am interested in building and evaluating efficient human-in-the-loop (HITL) systems and investigating applications of HITL learning that can be deployed to critical domains (e.g. misinformation). Additionally, I am interested in large language model (LLM) robustness, specifically as it relates to privacy-preservation and model hijacking.
+
+**Areas of Future Research Interest:** There are a few areas that I hope to break into in the future: building LLM agents, model interpretability (especially for adversarial detection), neural program synthesis (especially with HITL learning)
 
 Publications
 ======
