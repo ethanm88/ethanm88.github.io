@@ -13,7 +13,6 @@ Hello! I am a BSMS student at Georgia Tech where I work on Natural Language Proc
 
 **Current Research Interests:** I am interested in building and evaluating efficient human-in-the-loop (HITL) systems and investigating applications of HITL learning that can be deployed to critical domains (e.g. misinformation). Additionally, I am interested in large language model (LLM) robustness, specifically as it relates to privacy-preservation and model hijacking.
 
-**Areas of Future Research Interest:** There are a few areas that I hope to break into in the future: building LLM agents, model interpretability (especially for adversarial detection), neural program synthesis (especially with HITL learning)
 
 **I am applying to ML/NLP Ph.D. programs in Fall 2023.**
 
@@ -28,7 +27,7 @@ ACL 2023 <br>
 
 - ***Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game*** <br>
 [Sam Toyer](https://www.qxcv.net/), [Olivia Watkins](https://aliengirlliv.github.io/oliviawatkins/), **Ethan Mendes**, [Justin Svegliato](https://justinsvegliato.com/), [Luke Bailey](https://scholar.google.com/citations?user=rUr9LjMAAAAJ&hl=en), [Tiffany Wang](https://www.tiffanywang.me/), [Isaac Ong](https://isaacong.me/), [Karim Elmaaroufi](https://kael.tech.blog/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Alan Ritter](http://aritter.github.io/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) <br>
-Instruction Tuning and Instruction Following Workshop at NeurIPS 2023 **(Oral)** <br>
+Instruction Tuning and Instruction Following Workshop at NeurIPS 2023 **(Oral and Honorable Mention)** <br>
 R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop at NeurIPS 2023 **(Spotlight)** <br>
 \[[paper](https://arxiv.org/pdf/2310.02224.pdf)\] \[[data](https://github.com/HumanCompatibleAI/tensor-trust-data)\] \[[code](https://github.com/HumanCompatibleAI/tensor-trust)\] \[[project page](https://tensortrust.ai/paper/)\]
 
