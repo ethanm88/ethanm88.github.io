@@ -48,7 +48,7 @@ ICLR 2024 **(Spotlight)** <br>
 Previously presented: <br>
 Instruction Tuning and Instruction Following Workshop at NeurIPS 2023 **(Oral and Honorable Mention)** <br>
 R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop at NeurIPS 2023 **(Spotlight)** <br>
-\[[paper](https://arxiv.org/pdf/2310.02224.pdf)\] \[[data](https://github.com/HumanCompatibleAI/tensor-trust-data)\] \[[code](https://github.com/HumanCompatibleAI/tensor-trust)\] \[[project page](https://tensortrust.ai/paper/)\]
+\[[paper](https://arxiv.org/pdf/2311.01011.pdf)\] \[[data](https://github.com/HumanCompatibleAI/tensor-trust-data)\] \[[code](https://github.com/HumanCompatibleAI/tensor-trust)\] \[[project page](https://tensortrust.ai/paper/)\]
 
 Under Submission
 ======
