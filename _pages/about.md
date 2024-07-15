@@ -52,6 +52,9 @@ R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Work
 
 Under Submission
 ======
+- ***Granular Privacy Control for Geolocation with Vision Language Models*** <br>
+**Ethan Mendes**, [Yang Chen](https://edchengg.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
+\[[paper](https://arxiv.org/pdf/2407.04952)\] \[[data / code](https://github.com/ethanm88/GPTGeoChat)\] 
 - ***Can Language Models be Instructed to Protect Personal Information?*** <br>
 [Yang Chen\*](https://edchengg.github.io/), **Ethan Mendes\***, [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
 \[[paper](https://arxiv.org/pdf/2310.02224.pdf)\] \[[data](https://github.com/ethanm88/llm-access-control)\] \[[project page](https://llm-access-control.github.io/)\]
