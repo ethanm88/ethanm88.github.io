@@ -26,7 +26,7 @@ alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-Hello! I am a ML Ph.D. student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). Previously, I have interned at the [Center for Human-Compatible Artificial Intelligence (CHAI)](https://humancompatible.ai/) at UC Berkeley working in [Prof. Stuart Russell's](https://people.eecs.berkeley.edu/~russell/) group.
+Hello! I am a ML Ph.D. student at Georgia Tech where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). Previously, I interned at the [Center for Human-Compatible Artificial Intelligence (CHAI)](https://humancompatible.ai/) at UC Berkeley working in [Prof. Stuart Russell's](https://people.eecs.berkeley.edu/~russell/) group.
 
 <!-- **Current Research Interests:** I am interested in building and evaluating efficient human-in-the-loop (HITL) systems and investigating applications of HITL learning that can be deployed to critical domains (e.g. misinformation). Additionally, I am interested in large language model (LLM) robustness, specifically as it relates to privacy-preservation and model hijacking.
 
@@ -39,8 +39,13 @@ Publications
 ======
 - ***Granular Privacy Control for Geolocation with Vision Language Models*** <br>
 **Ethan Mendes**, [Yang Chen](https://edchengg.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
-EMNLP 2024 <br>
+EMNLP 2024 **(Oral)** <br>
 \[[paper](https://arxiv.org/pdf/2407.04952)\] \[[data / code](https://github.com/ethanm88/GPTGeoChat)\]
+
+- ***ChatHF: Collecting Rich Human Feedback from Real-time Conversations*** <br>
+Andrew Li, [Zhenduo Wang](https://zhenduow.github.io/), **Ethan Mendes**, [Duong Minh Le](https://duonglm38.github.io/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
+EMNLP 2024 (Demo) <br>
+\[[paper](https://aclanthology.org/2024.emnlp-demo.28.pdf)\]
 
 - ***Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game*** <br>
 [Sam Toyer](https://www.qxcv.net/), [Olivia Watkins](https://aliengirlliv.github.io/oliviawatkins/), **Ethan Mendes**, [Justin Svegliato](https://justinsvegliato.com/), [Luke Bailey](https://scholar.google.com/citations?user=rUr9LjMAAAAJ&hl=en), [Tiffany Wang](https://www.tiffanywang.me/), [Isaac Ong](https://isaacong.me/), [Karim Elmaaroufi](https://kael.tech.blog/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Alan Ritter](http://aritter.github.io/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) <br>
