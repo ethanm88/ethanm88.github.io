@@ -39,7 +39,8 @@ Recent Work
 ======
 - ***Language Models can Self-Improve at State-Value Estimation for Better Search*** <br>
 **Ethan Mendes**, [Alan Ritter](http://aritter.github.io/) <br>
-\[[paper](https://arxiv.org/pdf/2503.02878)\] \[[data / code](https://github.com/ethanm88/self-taught-lookahead)\]
+NeurIPS 2025 **(Spotlight)** <br>
+\[[paper](https://arxiv.org/pdf/2503.02878)\] \[[code](https://github.com/ethanm88/self-taught-lookahead)\]
 
 - ***Granular Privacy Control for Geolocation with Vision Language Models*** <br>
 **Ethan Mendes**, [Yang Chen](https://edchengg.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
