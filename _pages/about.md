@@ -39,12 +39,12 @@ Recent Work
 ======
 - ***Language Models can Self-Improve at State-Value Estimation for Better Search*** <br>
 **Ethan Mendes**, [Alan Ritter](http://aritter.github.io/) <br>
-NeurIPS 2025 **(Spotlight)** <br>
+NeurIPS 2025 <span style="color:red">**(Spotlight)**</span> <br>
 \[[paper](https://arxiv.org/pdf/2503.02878)\] \[[code](https://github.com/ethanm88/self-taught-lookahead)\]
 
 - ***Granular Privacy Control for Geolocation with Vision Language Models*** <br>
 **Ethan Mendes**, [Yang Chen](https://edchengg.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
-EMNLP 2024 **(Oral)** <br>
+EMNLP 2024 <span style="color:red">**(Oral)**</span> <br>
 \[[paper](https://arxiv.org/pdf/2407.04952)\] \[[data / code](https://github.com/ethanm88/GPTGeoChat)\]
 
 - ***ChatHF: Collecting Rich Human Feedback from Real-time Conversations*** <br>
@@ -54,10 +54,10 @@ EMNLP 2024 (Demo) <br>
 
 - ***Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game*** <br>
 [Sam Toyer](https://www.qxcv.net/), [Olivia Watkins](https://aliengirlliv.github.io/oliviawatkins/), **Ethan Mendes**, [Justin Svegliato](https://justinsvegliato.com/), [Luke Bailey](https://scholar.google.com/citations?user=rUr9LjMAAAAJ&hl=en), [Tiffany Wang](https://www.tiffanywang.me/), [Isaac Ong](https://isaacong.me/), [Karim Elmaaroufi](https://kael.tech.blog/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Alan Ritter](http://aritter.github.io/), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) <br>
-ICLR 2024 **(Spotlight)** <br>
+ICLR 2024 <span style="color:red">**(Spotlight)**</span> <br>
 Previously presented: <br>
-Instruction Tuning and Instruction Following Workshop at NeurIPS 2023 **(Oral and Honorable Mention)** <br>
-R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop at NeurIPS 2023 **(Spotlight)** <br>
+Instruction Tuning and Instruction Following Workshop at NeurIPS 2023 <span style="color:red">**(Oral and Honorable Mention)**</span> <br>
+R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop at NeurIPS 2023 <span style="color:red">**(Spotlight)**</span> <br>
 \[[paper](https://arxiv.org/pdf/2311.01011.pdf)\] \[[data](https://github.com/HumanCompatibleAI/tensor-trust-data)\] \[[code](https://github.com/HumanCompatibleAI/tensor-trust)\] \[[project page](https://tensortrust.ai/paper/)\]
 
 - ***Can Language Models be Instructed to Protect Personal Information?*** <br>
