@@ -40,6 +40,9 @@ Feel free to reach out at emendes3[at]gatech[dot]edu.
 
 Recent Work
 ======
+- ***Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?*** <br>
+\[[paper]()\] \[[code](https://github.com/99starman/VLM-GeoPrivacyBench)\]
+
 - ***Language Models can Self-Improve at State-Value Estimation for Better Search*** <br>
 **Ethan Mendes**, [Alan Ritter](http://aritter.github.io/) <br>
 NeurIPS 2025 <span style="color:red">**(Spotlight)**</span> <br>
