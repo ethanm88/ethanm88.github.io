@@ -42,7 +42,8 @@ Recent Work
 ======
 - ***Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?*** <br>
 [Ruixin Yang](https://99starman.github.io/), **Ethan Mendes**, Arthur Wang, [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
-\[[paper]()\] \[[code](https://github.com/99starman/VLM-GeoPrivacyBench)\]
+ICLR 2026 <br>
+\[[paper](https://arxiv.org/pdf/2602.05023)\] \[[code](https://github.com/99starman/VLM-GeoPrivacyBench)\]
 
 - ***Language Models can Self-Improve at State-Value Estimation for Better Search*** <br>
 **Ethan Mendes**, [Alan Ritter](http://aritter.github.io/) <br>
