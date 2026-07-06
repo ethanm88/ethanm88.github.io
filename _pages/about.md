@@ -26,7 +26,10 @@ alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-Hello! I am an ML Ph.D. student at Georgia Tech, where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). Previously, I interned at the [Center for Human-Compatible Artificial Intelligence (CHAI)](https://humancompatible.ai/) at UC Berkeley, working in [Prof. Stuart Russell's](https://people.eecs.berkeley.edu/~russell/) group.
+Hello! I am an ML Ph.D. student at Georgia Tech, where I work on Natural Language Processing (NLP) and am advised by [Prof. Alan Ritter](http://aritter.github.io/). I am thankful to be supported by the [Microsoft Research Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/fellows/).
+
+I am currently an intern in the [AI Learning and Interaction](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) group at Microsoft Research.
+Previously, I interned at the [Center for Human-Compatible Artificial Intelligence (CHAI)](https://humancompatible.ai/) at UC Berkeley, working in [Prof. Stuart Russell's](https://people.eecs.berkeley.edu/~russell/) group.
 
 <!-- **Current Research Interests:** I am interested in building and evaluating efficient human-in-the-loop (HITL) systems and investigating applications of HITL learning that can be deployed to critical domains (e.g. misinformation). Additionally, I am interested in large language model (LLM) robustness, specifically as it relates to privacy-preservation and model hijacking.
 
@@ -35,11 +38,21 @@ Hello! I am an ML Ph.D. student at Georgia Tech, where I work on Natural Languag
 
 Feel free to reach out at emendes3[at]gatech[dot]edu.
 
-**I am actively looking for research internships for Summer 2026. Please reach out if you think I would be a good fit.**
+<!-- **I am actively looking for research internships for Summer 2026. Please reach out if you think I would be a good fit.** -->
 
 
-Recent Work
-======
+Recent Publications:
+- ***Making Expert Reasoning Learnable with Self-Distillation*** <br>
+**Ethan Mendes**, Jungsoo Park, [Alan Ritter](http://aritter.github.io/) <br>
+ICML 2026 <br>
+\[[paper](https://arxiv.org/pdf/2602.02405)\] \[[code](https://github.com/ethanm88/DAIL)\]
+
+- ***GeoRC: A Benchmark for Geolocation Reasoning Chains***<br>
+Mohit Talreja, Joshua Diao, [Jim Thannikary James](https://jimjam.es/), Radu Casapu, [Tejas Santanam](https://sites.gatech.edu/tsantanam/), **Ethan Mendes**, [Alan Ritter](http://aritter.github.io/), [Wei Xu](https://cocoxu.github.io/), [James Hays](https://faculty.cc.gatech.edu/~hays/) <br>
+ACL 2026 <br>
+\[[paper](https://arxiv.org/pdf/2602.05023)\] \[[code](https://github.com/99starman/VLM-GeoPrivacyBench)\]
+
+
 - ***Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?*** <br>
 [Ruixin Yang](https://99starman.github.io/), **Ethan Mendes**, Arthur Wang, [James Hays](https://faculty.cc.gatech.edu/~hays/), [Sauvik Das](https://sauvikdas.com/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
 ICLR 2026 <br>
@@ -73,9 +86,3 @@ ICLR 2024 <span style="color:red">**(Spotlight)**</span> <br>
 **Ethan Mendes**, [Yang Chen](https://edchengg.github.io/), [Wei Xu](https://cocoxu.github.io/), [Alan Ritter](http://aritter.github.io/) <br>
 ACL 2023 <br>
 \[[paper](https://aclanthology.org/2023.acl-long.881.pdf)\] \[[data](https://github.com/ethanm88/hitl-evaluation-early-misinformation-detection)\]
-
-- ***Defending Against Imperceptible Audio Adversarial Examples Using Proportional Additive Gaussian Noise***
-<br>
-**Ethan Mendes**,
-[Kyle Hogan](https://kylehogan.github.io/) <br>
-\[[paper](https://kleinex.mit.edu/research/highschool/primes/materials/2020/Mendes-Hogan.pdf)\]
